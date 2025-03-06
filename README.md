@@ -1,16 +1,24 @@
-## Hi there 👋
+# Lorenzo Feula
 
-<!--
-**feulalorenzo/feulalorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **Bachelor's Degree in Computer Science (Ongoing)**  
+  University of L'Aquila  
+- **High School Diploma in Computer Science**  
+  ITI Pacinotti, Fondi  
 
-Here are some ideas to get you started:
+## 💻 Professional Profile
+Passionate **Web Developer** with a solid foundation in **front-end and back-end development**. Skilled in designing and building responsive, user-friendly websites and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages & Frameworks**: HTML, CSS, JavaScript, Python, Java, C, C++
+- **Databases**: MySQL
+- **Version Control**: Git, GitHub  
+
+## 🌍 Languages
+- Italian (Native)  
+- English (Intermediate)  
+
+## 📧 Contact
+- Email: [feulalorenzo@gmail.com]
+- GitHub: [github.com/feulalorenzo](https://github.com/feulalorenzo)  
+- LinkedIn: [linkedin.com/in/lorenzo-feula](https://linkedin.com/in/lorenzo-feula)  
