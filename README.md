@@ -20,5 +20,5 @@ Passionate **Web Developer** with a solid foundation in **front-end and back-end
 
 ## 📧 Contact
 - Email: feulalorenzo@gmail.com
-- GitHub: github.com/feulalorenzo](https://github.com/feulalorenzo)  
-- LinkedIn: (https://www.linkedin.com/in/lorenzo-feula-438a98244/)
+- GitHub: https://github.com/feulalorenzo
+- LinkedIn: https://www.linkedin.com/in/lorenzo-feula-438a98244/
