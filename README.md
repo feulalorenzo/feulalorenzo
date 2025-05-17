@@ -10,8 +10,8 @@
 Passionate **Web Developer** with a solid foundation in **front-end and back-end development**. Skilled in designing and building responsive, user-friendly websites and web applications.
 
 ## 🛠️ Skills
-- **Languages & Frameworks**: HTML, CSS, JavaScript, Python, Java, C, C++, Flutter, Dart
-- **Databases**: MySQL
+- **Languages & Frameworks**: HTML, CSS, JavaScript, Python, Java, JavaFX, C, C++, Flutter, Dart, PHP
+- **Databases**: MySQL, FirestoreDB
 - **Version Control**: Git, GitHub  
 
 ## 🌍 Languages
